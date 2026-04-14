@@ -4,8 +4,4 @@
   </a>
 </p>
 <div align="center"> 
-<details> 
-<summary> the biggest bird </summary>
-
-</details>
 
